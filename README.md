@@ -5,7 +5,9 @@ Dont forget to update this tools in every months
 
 Tested on : Kali Linux, Termux, and Parrot OS
 
-If You Find a Bug, Contact Me!
+If You Find a Bug,and Have a Question
+
+Contact Me!
 Just Telegram.
 
 https://t.me/Grandshoot
