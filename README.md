@@ -5,7 +5,6 @@ Dont forget to update this tools in every months
 
 Tested on : Kali Linux, Termux, and Parrot OS
 
-
 If You Find a Bug, Contact Me!
 Just Telegram.
 
