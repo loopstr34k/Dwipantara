@@ -15,5 +15,7 @@ Don't Be Afraid for Hacking
 # Linux Android // Termux
 
   apt update && apt upgrade
+  
   pkg install git
+  
   git clone https://github.com/loopstr34k/Dwipantara.git
