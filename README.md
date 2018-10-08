@@ -1,5 +1,5 @@
 #  Dwipantara Indonesia
-Dwipantara Tools, i think v 2.3
+Dwipantara Tools v 2.3
 
 Dont forget to update this tools in every months
 
