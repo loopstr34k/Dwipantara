@@ -1,15 +1,19 @@
 #  Dwipantara Indonesia
-Dwipantara Tools, i think v 2.1
+Dwipantara Tools, i think v 2.3
 
 Dont forget to update this tools in every months
 
-Tested on : Kali Linux, Termux, and Parrot OS
+Don't Be Afraid for Hacking
 
-If You Find a Bug,and Have a Question
 
-Contact Me!
-Just Telegram.
+# Install
 
-https://t.me/Grandshoot
 
-Thanks.
+# Linux PC
+  git clone https://github.com/loopstr34k/Dwipantara.git
+  
+# Linux Android // Termux
+
+  apt update && apt upgrade
+  pkg install git
+  git clone https://github.com/loopstr34k/Dwipantara.git
