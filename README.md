@@ -1,7 +1,7 @@
 #  Dwipantara Indonesia
 Dwipantara Tools v 2.3
 
-Dont forget to update this tools in every months
+Dont forget to update this tools in every early months
 
 Don't Be Afraid for Hacking
 
