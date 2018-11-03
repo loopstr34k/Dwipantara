@@ -189,7 +189,9 @@ echo "Get Dwipandev tool ?"
 read -p " [y]es // [n]o : " dev;
 if [ $dev == y ] || [ $dev == Y ]
 then
-echo "ddd"
+cd
+git clone https://github.com/loopstr34k/Dwipandev.git
+echo "Clear"
 fi
 if [ $dev == n ] || [ $dev == N ]
 then
