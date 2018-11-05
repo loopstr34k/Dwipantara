@@ -184,20 +184,6 @@ function checkinternet()
   fi
 }
 clear
-sleep 3
-echo "Get Dwipandev tool ?"
-read -p " [y]es // [n]o : " dev;
-if [ $dev == y ] || [ $dev == Y ]
-then
-cd
-git clone https://github.com/loopstr34k/Dwipandev.git
-echo "Clear"
-fi
-if [ $dev == n ] || [ $dev == N ]
-then
-echo "OK"
-fi
-clear
 checkinternet
 sleep 1
 echo " "
