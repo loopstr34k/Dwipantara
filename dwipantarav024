@@ -601,7 +601,7 @@ fi
 done
 }
 function reload(){
-    #curl -O <Link Raw Github>
+    curl -O https://raw.githubusercontent.com/loopstr34k/Dwipantara/master/dwipantarav024
     sleep 1
     source dwipantarav024
 }
