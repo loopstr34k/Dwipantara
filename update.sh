@@ -13,7 +13,7 @@ yellow='\e[1;33m'
 clear
 echo -e $red"   [@]   Updating Dwipantara Tools   [@]"
 rm dwipantara
-wget https://raw.githubusercontent.com/loopstr34k/Dwipantara/master/dwipantara 2> /dev/null
+wget https://raw.githubusercontent.com/loopstr34k/Dwipantara/master/dwipantarav024 2> /dev/null
 chmod +x dwipantara
 echo " "
 function bar()
