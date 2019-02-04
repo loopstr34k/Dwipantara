@@ -7,7 +7,11 @@ Don't Be Afraid for Hacking
 
 # Linux PC
   git clone https://github.com/loopstr34k/Dwipantara.git
+  
+  
   cd Dwipantara
+  
+  
   chmod +x dwipantarav024
   
 # Linux Android // Termux
@@ -17,5 +21,9 @@ Don't Be Afraid for Hacking
   pkg install git
   
   git clone https://github.com/loopstr34k/Dwipantara.git
+  
+  
   cd Dwipantara
+  
+  
   chmod +x dwipantarav024
