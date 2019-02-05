@@ -14,7 +14,7 @@ clear
 echo -e $red"   [@]   Updating Dwipantara Tools   [@]"
 rm dwipantarav024
 wget https://raw.githubusercontent.com/loopstr34k/Dwipantara/master/dwipantarav024 2> /dev/null
-chmod +x dwipantara
+chmod +x dwipantarav024
 echo " "
 function bar()
 {
