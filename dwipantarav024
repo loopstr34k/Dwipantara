@@ -625,6 +625,7 @@ done
 }
 function reload(){
     curl -O https://raw.githubusercontent.com/loopstr34k/Dwipantara/master/dwipantarav024
+    curl -O https://raw.githubusercontent.com/loopstr34k/Dwipantara/master/update.sh
     sleep 1
     source dwipantarav024
 }
