@@ -269,6 +269,29 @@ cd sqlmap-dev
 chmod +x *.py
 exit
 }
+function redhawk(){
+for install in $string;do
+     $install
+done;
+clear
+echo -e $blue" [ Installing RED_HAWK ] "
+sleep 2
+echo " "
+echo -e "${blue}Installing Requirement RED_HAWK $white"
+function instphp()
+{
+     case $( uname -o ) in
+     Android)
+     pkg install php -y;;
+     GNU/Linux)
+     apt-get install php -y;;
+     esac
+}
+instphp
+git clone https://github.com/Tuhinshubhra/RED_HAWK
+cd RED_HAWK
+chmod +x *.php
+}
 function hasher(){
 for install in $string;do
      $install
