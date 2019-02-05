@@ -633,7 +633,7 @@ function ?()
 {
 clear
 echo -e "$yellow      Command :
-                 install     : For Download tool in list by number
+                 install     : For Download tool in list by name
                                    e.g install <tool name>
                                    install dwipantara
                  help        : Help Commands
