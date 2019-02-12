@@ -551,6 +551,8 @@ for install in $string;do
 done;
 clear
 echo -e "${blue} [ Installing DarkSploit ] $white"
+git clone https://github.com/anthrax3/DarkSploit.git
+sleep 1.5
 function darkpo()
 {
     case $( uname -o ) in
@@ -568,8 +570,6 @@ function darkpo()
     echo -e "${okegreen} Done Install Requirements DarkSploit $white";;
     esac
 }
-git clone https://github.com/anthrax3/DarkSploit.git
-sleep 0.1
 darkpo
 echo ""
 }
