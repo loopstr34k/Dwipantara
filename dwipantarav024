@@ -555,16 +555,16 @@ function darkpo()
 {
     case $( uname -o ) in
     Android)
-        cd DarksSploit
-        cd Install
+    cd DarksSploit/Install
+    chmod +x installtermux.sh
     sh installtermux.sh
     pip2 install -r requirements.txt
     echo -e "${okegreen} Done Install Requirements DarkSploit Termux $white";;
     GNU/Linux)
-        cd DarkSploit
-        cd Install
-        sh installgnuroot.sh
-    pip2 install -r requirements.txt
+    cd DarkSploit/Install
+    chmod +x installgnuroot.sh
+    sh installgnuroot.sh
+    pip install -r requirements.txt
     echo -e "${okegreen} Done Install Requirements DarkSploit $white";;
     esac
 }
