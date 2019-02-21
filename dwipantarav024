@@ -619,7 +619,7 @@ if [ $st = g ] || [ $st = G ]
 fi
 if [ $st = back ]
     then
-    argument $dwipantara
+    source dwipantarav024
 fi
 done
 }
