@@ -2,8 +2,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 # v 0.2.4
 
-# v 0.2.4
-
 #Warna // Color
 blue='\e[0;34m'
 cyan='\e[0;36m'
