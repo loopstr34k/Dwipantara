@@ -16,9 +16,9 @@ check() {
     echo ""
     which wget > /dev/null 2>&1
     if [ "$?" -eq "0" ]; then
-    echo "Wget Installed"
+    echo -e "$okegreen Wget Installed"
     else
-    echo "Wget Not Installed"
+    echo -e "$red Wget Not Installed"
     case $( uname -o ) in
     GNU/Linux)
     echo -e "${yellow}Installing Wget for PC"
