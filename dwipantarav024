@@ -30,7 +30,7 @@ check() {
     echo -e $okegreen "Done installing Wget"
     fi
 
-    which curl > /dev/nul 2>&1
+    which curl > /dev/null 2>&1
     if [ "$?" -eq "0" ]; then
     echo -e $okegreen "Curl Installed"
     sleep 0.5
